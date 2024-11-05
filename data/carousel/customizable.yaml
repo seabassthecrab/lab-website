@@ -1,0 +1,9 @@
+weight: 4
+title: "Why join our lab?"
+description: >
+  <ul class="list-style-none">
+    <li>come join our lab.</li>
+    <li>we have a drone cage!</li>
+  </ul>
+image: "img/carousel/template-easy-code.png"
+href: "https://devcows.github.io/hugo-universal-theme/"

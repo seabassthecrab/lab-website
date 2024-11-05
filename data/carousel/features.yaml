@@ -1,0 +1,11 @@
+weight: 2
+title: "what do we offer?"
+description: >
+  <ul class="list-style-none">
+     <li>Endless possibilities</li>
+     <li>DRONESSSSS</li>
+     <li>Fun environment</li>
+     <li>CONTROLSSSS</li>
+   </ul>
+image: "img/carousel/template-mac.png"
+href: "about"
